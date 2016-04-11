@@ -1,6 +1,5 @@
 //
 //  TAMail.swift
-//  TFreport
 //
 //  Created by 朝井鴻輝 on 2016/03/07.
 //  Copyright © 2016年 teA.AsaiKoki. All rights reserved.
@@ -21,9 +20,9 @@ import UIKit
         init(mailto:NSURL?)
 
         openMailer()
-*/
-
-/*  Sample
+ 
+ Sample
+ 
     let address = NSURL(string: "xxx@xxx.ne.jp")
     let mail    = TAMail(mailto: address)
     mail.delegate   = self
