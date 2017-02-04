@@ -2,9 +2,11 @@
 
 Swift3よりデフォルトでメーラーが使用可能になったため、更新停止。
 
-> swift2.xまでは対応。
+> swift2.xまでは対応。   
 
-# Usage  
+
+
+# Usage  
 ``` Swift
     let address = NSURL(string: "xxx@xxx.ne.jp")
     let mail    = TAMail(mailto: address)
